@@ -46,7 +46,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## ✨ Auteur
 
-[Votre nom] - [Votre site web/portfolio]
+[Murat] - [https://wptheme.fr/]
 
 ## 🙏 Remerciements
 
