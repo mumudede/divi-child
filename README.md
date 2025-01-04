@@ -50,5 +50,5 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 🙏 Remerciements
 
-- Elegant Themes pour le thème Divi
-- La communauté WordPress
+- Elegant Themes pour le thème Divi.
+- La communauté WordPress.
