@@ -12,7 +12,7 @@ Un thème enfant personnalisé pour Divi, offrant des fonctionnalités et des st
 ## 📋 Prérequis
 
 - WordPress 5 ou supérieur.
-- Thème parent Divi installé et activé
+- Thème parent Divi installé et activé.
 - PHP 7.4 ou supérieur. 
 
 ## 💻 Installation
