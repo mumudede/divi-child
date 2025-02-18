@@ -20,7 +20,7 @@ Un thème enfant personnalisé pour Divi, offrant des fonctionnalités et des st
 1. Téléchargez le thème enfant depuis ce dépôt
 2. Dans votre tableau de bord WordPress, allez dans `Apparence > Thèmes > Ajouter`
 3. Cliquez sur "Téléverser un thème"
-4. Sélectionnez le fichier zip du thème enfant.
+4. Sélectionnez le fichier zip du thème enfant
 5. Activez le thème enfant.
 
 ## 🔧 Utilisation
