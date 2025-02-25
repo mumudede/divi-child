@@ -35,7 +35,7 @@ Un thème enfant personnalisé pour Divi, offrant des fonctionnalités et des st
 Les contributions sont les bienvenues ! Pour contribuer :
 
 1. Forkez le projet
-2. Créez votre branche de fonctionnalité.
+2. Créez votre branche de fonctionnalité
 3. Committez vos changements. 
 4. Poussez vers la branche. 
 5. Ouvrez une Pull Request.
