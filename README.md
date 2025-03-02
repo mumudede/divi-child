@@ -38,7 +38,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 2. Créez votre branche de fonctionnalité
 3. Committez vos changements
 4. Poussez vers la branche
-5. Ouvrez une Pull Request.
+5. Ouvrez une Pull Request
 
 ## 📝 License
 
