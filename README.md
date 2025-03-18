@@ -28,7 +28,7 @@ Un thème enfant personnalisé pour Divi, offrant des fonctionnalités et des st
 1. Une fois le thème activé, vous pouvez personnaliser :
    - Les styles CSS via `style.css`
    - Les fonctionnalités PHP via `functions.php`
-   - Les templates personnalisés dans le dossier du thème
+   - Les templates personnalisés dans le dossier du thème.
 
 ## 🤝 Contribution
 
