@@ -4,7 +4,7 @@ Un thème enfant personnalisé pour Divi, offrant des fonctionnalités et des st
 
 ## 🚀 Fonctionnalités
 
-- Personnalisation complète du thème Divi.
+- Personnalisation complète du thème Divi
 - Styles CSS personnalisés.
 - Fonctions PHP additionnelles.
 - Compatibilité totale avec les mises à jour de Divi.
