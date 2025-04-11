@@ -1,6 +1,6 @@
 # Divi Child Theme
 
-Un thème enfant personnalisé pour Divi, offrant des fonctionnalités et des styles supplémentaires tout en préservant la compatibilité avec le thème parent Divi
+Un thème enfant personnalisé pour Divi, offrant des fonctionnalités et des styles supplémentaires tout en préservant la compatibilité avec le thème parent Divi.
 
 ## 🚀 Fonctionnalités
 
